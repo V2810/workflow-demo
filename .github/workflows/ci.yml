@@ -23,4 +23,4 @@ jobs:
           echo "Running basic security checks"
 
       - name: Fail Step (for testing)
-        run: exit 1
+        run: exit 0
